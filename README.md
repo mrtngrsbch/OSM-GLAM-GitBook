@@ -4,7 +4,7 @@
 
 * Este proyecto intenta documentar el proyecto OSM GLAM [https://wiki.openstreetmap.org/wiki/WikiProject\_Argentina/Cultura/GLAM](https://wiki.openstreetmap.org/wiki/WikiProject_Argentina/Cultura/GLAM)
 * El logo de OSM GLAM es momentáneo hasta tener el logo final.
-*  * Este proyecto intenta documentar el proyecto OSM GLAM 
+* * Este proyecto intenta documentar el proyecto OSM GLAM 
 
 ## Roadmap
 
@@ -13,6 +13,8 @@
 * Internacionalizar las etiquetas
 * Feedback
 * testeo
+
+![](.gitbook/assets/instagram.png)
 
 ## Quick start video
 
@@ -27,6 +29,4 @@ http://acme.us
 ```
 
 ## Youtube
-
-
 
