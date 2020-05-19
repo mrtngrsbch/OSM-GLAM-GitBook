@@ -12,6 +12,7 @@
 * Revisiones
 * Internacionalizar las etiquetas
 * Feedback
+* testeo
 
 ## Quick start video
 
